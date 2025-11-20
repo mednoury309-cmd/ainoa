@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(212, 76, 227);
+    font-size: Arial;
+}
+p {
+    color: rgb(76, 59, 209);
+    font-size: 18px;
+    padding: 10px;
+}
